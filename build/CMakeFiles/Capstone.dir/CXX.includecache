@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/workspace/CppCapstone/src/frame.h
+
+/home/workspace/CppCapstone/src/main.cpp
+iostream
+-
+complex
+-
+vector
+-
+string
+-
+chrono
+-
+functional
+-
+frame.h
+/home/workspace/CppCapstone/src/frame.h
+saveimage.h
+/home/workspace/CppCapstone/src/saveimage.h
+
+/home/workspace/CppCapstone/src/saveimage.h
+vector
+-
+string
+-
+frame.h
+/home/workspace/CppCapstone/src/frame.h
+

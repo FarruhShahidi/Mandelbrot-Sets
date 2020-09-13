@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -std=c++17 -std=c++11   CMakeFiles/Capstone.dir/src/main.cpp.o CMakeFiles/Capstone.dir/src/saveimage.cpp.o  -o Capstone -lfreeimage 
