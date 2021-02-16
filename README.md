@@ -2,6 +2,10 @@
 
 This project generates a self-similar Mandelbrot like sets according to specifications from user input. The options are quadratic Mandelbrot(https://en.wikipedia.org/wiki/Mandelbrot_set) or Mandelbar(https://en.wikipedia.org/wiki/Tricorn_(mathematics)) as well as Cubic parametrized and nonparametrized multibrot sets.
 
+![](fractal.png "Mandelbrot set")
+
+
+
 ## Dependencies for Running Locally
 * cmake >= 3.7
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
